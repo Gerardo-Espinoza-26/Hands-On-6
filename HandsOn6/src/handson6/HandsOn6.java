@@ -1,3 +1,12 @@
+/*
+    Alumno: Gerardo Espinoza Sanchez
+    Profesor: José Antonio Aviña Méndez
+    Clase: Simulation
+    Hands-On 6
+    Tecnologico Superior De Zapopan
+    Fecha: 07 / 10 / 21
+*/
+
 package handson6;
 
 import javax.swing.JOptionPane;
@@ -341,7 +350,6 @@ public class HandsOn6 extends Agent {
 
         System.out.println("La Prediccion Es: " + String.format("%.3f", tabla.yield()));
 
-    }
+    }//Fin public void setup
 
-}
-
+}//Fin public class HandsOn6
